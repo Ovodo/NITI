@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NITI/static/css/main.d34d7d07.css",
+    "main.js": "/NITI/static/js/main.2a973c60.js",
+    "static/media/webdev.png": "/NITI/static/media/webdev.d53e75da633cf6a42db0.png",
+    "static/media/community.jpg": "/NITI/static/media/community.53082c96b7ca8704564e.jpg",
+    "static/media/applicationdev.jpg": "/NITI/static/media/applicationdev.a5862ce608d0c21a8a45.jpg",
+    "static/media/analytics.jpg": "/NITI/static/media/analytics.41264fe5f3a384f6b434.jpg",
+    "static/media/design.jpg": "/NITI/static/media/design.551b8a755de14d38fbb7.jpg",
+    "static/media/digitalmarketing.jpg": "/NITI/static/media/digitalmarketing.38ee6a73b844aacc2e56.jpg",
+    "static/media/hardware.jpg": "/NITI/static/media/hardware.b57a61f9ab524546a96a.jpg",
+    "static/media/lightbulb.jpg": "/NITI/static/media/lightbulb.c0e16aa6dc8ea5a3ef8a.jpg",
+    "static/media/Krown.png": "/NITI/static/media/Krown.f589e1986f5da40bcf1f.png",
+    "static/media/trava.png": "/NITI/static/media/trava.4571340edd0c51678a8b.png",
+    "static/media/infotech.jpg": "/NITI/static/media/infotech.6899e12aa27c349b31ff.jpg",
+    "static/media/amf.png": "/NITI/static/media/amf.f07a4c87adecba89af69.png",
+    "static/media/vigor.png": "/NITI/static/media/vigor.fa22ec5bb9c9b26f1054.png",
+    "static/media/lunar.png": "/NITI/static/media/lunar.288cb90fbecb7672426c.png",
+    "index.html": "/NITI/index.html",
+    "main.d34d7d07.css.map": "/NITI/static/css/main.d34d7d07.css.map",
+    "main.2a973c60.js.map": "/NITI/static/js/main.2a973c60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34d7d07.css",
+    "static/js/main.2a973c60.js"
+  ]
+}
